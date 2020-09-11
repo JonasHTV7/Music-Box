@@ -136,8 +136,8 @@ void loop(){
       
       val = LOW;
       state = HIGH;
-      delay(1000)
       }
+    delay(1000);
     }
     
   }
